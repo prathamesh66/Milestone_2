@@ -4,7 +4,7 @@ This is a Task Management App built with React and Vite. It allows users to effi
 
 * Features
 
-Add tasks with a title, priority, and due date.
+Add tasks with a title, priority, and due date..
 
 Edit existing tasks.
 
