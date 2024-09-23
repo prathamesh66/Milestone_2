@@ -2,7 +2,7 @@
 
 This is a Task Management App built with React and Vite. It allows users to efficiently manage tasks, including adding, editing, marking as complete, and deleting tasks. The application uses React's Context API for state management, making it easy to share state across components.
 
-*Features
+* Features
 
 Add tasks with a title, priority, and due date.
 
@@ -18,7 +18,8 @@ Search functionality to filter tasks by title.
 *Project Structure
 
 src/
-│
+│ 
+
 ├── Components/
 
 │   ├── TaskForm.jsx     # Component for adding and validating tasks
@@ -26,8 +27,11 @@ src/
 │   └── TaskList.jsx     # Component for listing, editing, and deleting tasks
 
 ├── App.jsx              # Main component managing state and rendering
+
 ├── App.css              # Styles for the application
+
 ├── main.jsx             # Entry point of the app
+
 └── ...
 
 
@@ -53,7 +57,7 @@ npm install
 
 
 * Running the Application
-* 
+  
 Once the dependencies are installed, you can run the app in development mode using Vite.
 
 Using npm:
@@ -61,6 +65,7 @@ Using npm:
 npm run dev
 
 The application will run on http://localhost:5173.
+
 
 * How to Use
  
