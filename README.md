@@ -15,7 +15,7 @@ Delete tasks from the list.
 Search functionality to filter tasks by title.
 
 
-*Project Structure
+* Project Structure
 
 src/
 │ 
@@ -83,15 +83,15 @@ Click the "Edit" button next to a task to modify its details.
 
 Click the "Complete" button to mark a task as completed. Click "Undo" to revert it.
 
-*Delete a Task:
+* Delete a Task:
 
 Click the "Delete" button next to the task to remove it from the list.
 
-*Search Tasks:
+* Search Tasks:
 
 Use the search bar to filter tasks by title.
 
-*File Breakdown
+* File Breakdown
 
 App.jsx: The main file that manages state using the Context API and renders the TaskForm and TaskList components.
 
