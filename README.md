@@ -97,5 +97,5 @@ App.jsx: The main file that manages state using the Context API and renders the 
 
 TaskForm.jsx: Handles task input and validation.
 
-TaskList.jsx: Displays the list of tasks and provides editing and deleting functionalities.
+TaskList.jsx: Displays the list of tasks and provides editing and deleting functionalities..
 
