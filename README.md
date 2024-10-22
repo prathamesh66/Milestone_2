@@ -1,6 +1,6 @@
 # Milestone_2
 
-This is a Task Management App built with React and Vite. It allows users to efficiently manage tasks, including adding, editing, marking as complete, and deleting tasks. The application uses React's Context API for state management, making it easy to share state across components.
+This is a Task Management App built with React and Vite. It allows users to efficiently manage tasks, including adding, editing, marking as complete, and deleting tasks. The application uses React's Context API for state management, making it easy to share state across components..
 
 * Features
 
